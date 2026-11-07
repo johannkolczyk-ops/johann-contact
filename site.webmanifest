@@ -1,0 +1,19 @@
+{
+  "id": "/",
+  "name": "Contact",
+  "short_name": "Contact",
+  "lang": "fr",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#e7004c",
+  "icons": [
+    {
+      "src": "/contact-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
