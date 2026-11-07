@@ -10,7 +10,7 @@
   "theme_color": "#e7004c",
   "icons": [
     {
-      "src": "/contact-bdj-icon.svg",
+      "src": "/contact-bdj-icon-v3.svg",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any maskable"
