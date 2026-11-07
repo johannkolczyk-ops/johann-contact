@@ -1,7 +1,7 @@
 {
   "id": "/",
-  "name": "Contact",
-  "short_name": "Contact",
+  "name": "Contact BDJ",
+  "short_name": "Contact BDJ",
   "lang": "fr",
   "start_url": "/",
   "scope": "/",
@@ -10,10 +10,10 @@
   "theme_color": "#e7004c",
   "icons": [
     {
-      "src": "/contact-icon.svg",
+      "src": "/contact-bdj-icon.svg",
       "sizes": "any",
       "type": "image/svg+xml",
-      "purpose": "any"
+      "purpose": "any maskable"
     }
   ]
 }
